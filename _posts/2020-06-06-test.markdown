@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Testing adding a new post"
+date: 2020-06-06
+categories: test
+---
+
+<html>
+  <head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Open+Sans+Condensed:wght@300&family=Roboto:wght@100">
+    <style>
+      h1 {
+        font-size: 48px;
+        font-family: 'Open Sans Condensed';
+        border: 5px solid #807B49;
+        color: #807B49;
+        padding: 20px;
+        margin: 20px;
+        background-color: #EEEAC7;
+      }
+      p {
+        font-size: 24px;
+        font-family: 'Roboto';
+        margin: 40px;
+      }
+    </style>
+  </head>
+  <body style = "background-color: #F9F7E7">
+    
+    <h1>My corner of the internet.</h1>
+    <p>This is a test.</p>
+  </body>
+</html>
